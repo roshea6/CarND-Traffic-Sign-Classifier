@@ -18,14 +18,14 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[results]: ./ex_imgs/5_img_result.png "Results"
-[softmax_results]: ./ex_imgs/5_img_softmax.png "Softmax results"
+[results]: ./ex_imgs/5_img_result.PNG "Results"
+[softmax_results]: ./ex_imgs/5_img_softmax.PNG "Softmax results"
 [eq_img]: ./ex_imgs/equalized_img.png "Equalized img"
 [gray]: ./ex_imgs/gray_img.png "Gray"
 [rgb]: ./ex_imgs/rgb_img.png "RGB"
-[good_train_res]: ./ex_imgs/improved_training_results.png "Improved training"
-[bad_train_res]: ./ex_imgs/initial_training_results.png "Original training"
-[signs]: ./ex_imgs/sign_examples.png "Signs"
+[good_train_res]: ./ex_imgs/improved_training_results.PNG "Improved training"
+[bad_train_res]: ./ex_imgs/initial_training_results.PNG "Original training"
+[signs]: ./ex_imgs/sign_examples.PNG "Signs"
 [sign1]: ./ex_imgs/sign_2.png "Traffic Sign 1"
 [sign2]: ./ex_imgs/sign_12.png "Traffic Sign 2"
 [sign3]: ./ex_imgs/sign_13.png "Traffic Sign 3"
